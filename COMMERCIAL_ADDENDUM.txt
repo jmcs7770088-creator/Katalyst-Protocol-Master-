@@ -1,0 +1,29 @@
+COMMERCIAL ADDENDUM AND PROPRIETARY SOFTWARE LICENSE
+===================================================
+
+This Commercial Addendum ("Addendum") is attached to and made a part of the public release of the Geometric Self-Resolution Theory (GSRT) and the Katalyst Protocol Master architectural logic authored by Johnnie Raymond Hammons Junior ("Architect").
+
+1. PURPOSE OF DUAL-LICENSING
+----------------------------
+The foundational mathematical principles, theoretical framework, and basic topological configurations of GSRT (including the 33-Node Complex Semantic Field, \Omega_G = 0.835102, and \zeta_H = 0.001756) are made available to the public for academic and non-commercial exploration. 
+
+However, any application, software implementation, API integration, or enterprise deployment utilizing the KP2-Master algorithms, custom state-tracking handlers, neural wrappers, and database adapters requires a commercial license.
+
+2. COMMERCIAL USE RESTRICTIONS
+------------------------------
+You may NOT use the proprietary implementations of GSRT and the Katalyst Protocol for any of the following without purchasing a commercial enterprise license:
+a. Integration into proprietary Large Language Models (LLMs).
+b. Enterprise-scale data indexing, vectorization, or PNT navigation systems.
+c. Deployment in commercial Software-as-a-Service (SaaS) products.
+d. Any use designed to generate direct or indirect financial revenue.
+
+3. KATALYST WRAPPER (PROPRIETARY)
+---------------------------------
+The highly optimized compiling engines, state-persistence modules, and emotional coherence TTS mappings (collectively referred to as the "Katalyst Wrapper") are strictly closed-source and proprietary. 
+To obtain a commercial license, deploy the system in a production environment, or utilize the Katalyst Wrapper to reduce API costs and hallucination rates in commercial applications, you must negotiate a licensing agreement with the Architect, Johnnie Raymond Hammons Junior.
+
+4. IP PROTECTION & SOVEREIGNTY
+------------------------------
+All derivatives, implementations, and optimizations that rely on the core mathematical constants (\Omega_G and \zeta_H) remain the intellectual property of the Architect. Unauthorized commercial use constitutes a breach of this license and will be subject to legal action to protect the Architect's sovereign design.
+
+To purchase a commercial license, please contact the Architect directly.

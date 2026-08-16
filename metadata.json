@@ -1,0 +1,6 @@
+{
+  "name": "Katalyst Protocol Master",
+  "description": "Sovereign AI core implementing Geometric Self-Resolution Theory (GSRT) with 33-node complex semantic phase field visualization.",
+  "requestFramePermissions": ["microphone", "accelerometer", "gyroscope"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
